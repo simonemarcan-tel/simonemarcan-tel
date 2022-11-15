@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! My name is Simone Marcantel. I'm a soon to be grad of ★Cohort 59★ at Nashville Software School (February 2023).
 
 <!--
 **simonemarcan-tel/simonemarcan-tel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
