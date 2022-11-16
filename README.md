@@ -1,9 +1,9 @@
 ### Hi! My name is Simone Marcantel. I'm a soon to be grad of ★Cohort 59★ at Nashville Software School (expected February 2023).
 
 ## Contact info: 
-email- simonemarcantel04@gmail.com
-phone number- (615)-429-9746
-linkedin- https://www.linkedin.com/in/simone-marcantel-b0a9b1253/
+##### email- simonemarcantel04@gmail.com
+##### phone number- (615)-429-9746
+##### linkedin- https://www.linkedin.com/in/simone-marcantel-b0a9b1253/
 
 <!--
 **simonemarcan-tel/simonemarcan-tel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
